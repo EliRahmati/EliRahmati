@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/elham-rahmati-47500560/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn Logo" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/elham-rahmati-47500560/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBBUObZUshTvf11tWlk6Ouv276BeFP1BFH6TD3idxKVA&s" alt="LinkedIn Logo" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
