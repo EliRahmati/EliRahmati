@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **elham.rahmati@code.berlin**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/elham-rahmati-47500560/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" height="40" width="40" /></a>
 </p>
