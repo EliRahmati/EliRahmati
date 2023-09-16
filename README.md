@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Elham</h1>
+<h1 align="center">I'm Elham</h1>
 <h3 align="center">A Web Developer</h3>
 
 - 💬 Ask me about **html-css c++ javascript Python**
