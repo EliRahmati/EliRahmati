@@ -2,7 +2,6 @@
 
 <h1 align="center">I'm Elham</h1>
 <h3 align="center">A frontend and backend Web Developer</h3>
-
 - 💬 Ask me about **html-css, javascript, Python**
 
 - 📫 How to reach me **elham.rahmati@code.berlin**
